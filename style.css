@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    
+
+}
+button{
+ background-color: green;
+ border-color: red;
+}
+h1,p{
+    color: yellow;
+}
